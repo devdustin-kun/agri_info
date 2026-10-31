@@ -1,0 +1,17 @@
+# secrets / local config
+.env
+.env.local
+.env.*.local
+config.js
+
+# Supabase CLI local files (created by "supabase link")
+supabase/.temp/
+supabase/.branches/
+
+# dependencies and build output
+node_modules/
+dist/
+
+# editor / OS files
+.DS_Store
+Thumbs.db

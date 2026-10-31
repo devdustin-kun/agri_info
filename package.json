@@ -1,0 +1,22 @@
+{
+  "name": "agriculture-information-system",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Agriculture Information System - Supabase PostgreSQL + Vite + Bootstrap",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fontsource/figtree": "^5.1.1",
+    "@supabase/supabase-js": "2.58.0",
+    "bootstrap": "5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "chart.js": "4.4.6"
+  },
+  "devDependencies": {
+    "vite": "6.4.5"
+  }
+}
